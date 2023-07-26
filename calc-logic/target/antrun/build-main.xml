@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="maven-antrun-" default="main">
+  <target name="main">
+    <echo>Hello! I am running!</echo>
+    <echo>CURRENT ENV IS:PROD</echo>
+  </target>
+</project>
